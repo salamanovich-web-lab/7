@@ -1,0 +1,50 @@
+h3{
+    border: 1px solid;
+    text-align:center;
+    border-radius:12px;
+    }
+    h3:hover{
+    box-shadow: 1px 1px 1px 1px #4C5958;
+    }
+    .box{
+    background: #8AA6A3;
+    border-radius:12px;
+    }
+    .picker{
+    margin-left:40%;
+    }
+    ui-datepicker-next{
+    background: green;
+    }
+    #UniteGallery{
+    margin-left:20%;
+    font-family:Comic Sans MS;
+    color:red;
+    }
+    .ui-datepicker-prev{
+    background:#8AA6A3;
+    margin-left:10%;
+    }
+    .ui-datepicker-next{
+    background:#8AA6A3;
+    margin-left:50%;
+    }
+    .ui-datepicker-title{
+    margin-left:25%;
+    }
+    .ui-datepicker-calendar{
+    border:1px solid black;
+    background:#8AA6A3;
+    border-radius:5px;
+    }
+    .ui-datepicker-week-end{
+    color:red;
+    }
+    .ui-datepicker-current-day{
+    background:green;
+    border-radius:5px;
+    }
+    .theme{
+    font-family:Comic Sans MS;
+    color:red;
+    }
